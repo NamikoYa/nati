@@ -1,13 +1,13 @@
 {
   "title": "Nati's Blog",
   "layout_style": "overflow",
-  "palette": "blue",
+  "palette": "green",
   "header": {
-    "title": "Stackbit Fresh",
-    "tagline": "Header Tagline",
-    "profile_img": "images/avatar.png",
+    "title": "Nati's Blod",
+    "tagline": "Menu",
+    "profile_img": "/images/intro.jpg",
     "bg": "dark",
-    "has_nav": true,
+    "has_nav": false,
     "has_social": true
   },
   "footer": {
