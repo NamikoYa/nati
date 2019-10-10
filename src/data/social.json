@@ -1,6 +1,11 @@
 {
   "links": [
     {
+      "title": "Email",
+      "icon": "fas fa-envelope",
+      "url": "nati.wernli@gmail.com"
+    },
+    {
       "title": "Steam",
       "icon": "fab fa-steam",
       "url": "https://steamcommunity.com/id/_nastyoldman_/"
