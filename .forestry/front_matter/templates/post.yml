@@ -42,4 +42,3 @@ fields:
     required: true
 pages:
 - src/pages/posts/test.md
-- src/pages/posts/My thoughts/test.md
