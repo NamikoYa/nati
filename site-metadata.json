@@ -3,11 +3,11 @@
   "layout_style": "overflow",
   "palette": "green",
   "header": {
-    "title": "Nati's Blod",
+    "title": "Nati's Blog",
     "tagline": "Menu",
     "profile_img": "/images/intro.jpg",
     "bg": "dark",
-    "has_nav": false,
+    "has_nav": true,
     "has_social": true
   },
   "footer": {
