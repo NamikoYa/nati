@@ -16,10 +16,9 @@ sections:
   - label: Contact Me
     url: "/contact"
   component: ContentBlock
-  content: This is the "about" excerpt. It can be used to provide a paragraph about
-    yourself that people can read on the homepage to get a sense of who you are. There
-    also exists a dedicated about page where you can write more about yourself for
-    those who are interested.
+  content: You can find more information about my blog and me in the "About"-Section.
+    If you have any questions or concerns, feel free to contact me via Email or my
+    other linked Social Media.
   image: ''
 - type: postsblock
   template: postsblock
