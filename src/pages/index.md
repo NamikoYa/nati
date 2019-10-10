@@ -5,8 +5,7 @@ sections:
   template: heroblock
   section_id: hero
   component: HeroBlock
-  content: Welcome to my Blog about everything and nothing. Feel free to contact me
-    via Email or my other linked Social Media.
+  content: Welcome to my Blog about everything and nothing.
   title: Hello fellow readers
   actions: []
 - type: contentblock
