@@ -5,6 +5,10 @@ admin_path: static/admin
 webhook_url: https://api.stackbit.com/project/5d9f082a7248f6001ae6163e/webhook/forestry
 sections:
 - type: document
+  path: src/contact/index.md
+  label: Contact
+  match: "**/*"
+- type: document
   path: site-metadata.json
   label: Global Site Config
   templates:
