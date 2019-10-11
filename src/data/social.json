@@ -6,15 +6,20 @@
       "url": "mailto:nati.wernli@gmail.com"
     },
     {
-      "title": "Steam",
-      "icon": "fab fa-steam",
-      "url": "https://steamcommunity.com/id/_nastyoldman_/"
-    },
-    {
       "type": "github",
       "title": "GitHub",
       "icon": "fa-github",
       "url": "https://github.com/"
+    },
+    {
+      "title": "Discord",
+      "icon": "fab fa-discord",
+      "url": "https://www.google.com/"
+    },
+    {
+      "title": "Steam",
+      "icon": "fab fa-steam",
+      "url": "https://steamcommunity.com/id/_nastyoldman_/"
     }
   ]
 }
