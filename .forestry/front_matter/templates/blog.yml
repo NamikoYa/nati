@@ -19,7 +19,7 @@ fields:
   type: text
   config:
     required: false
-  description: Title
-  label: Nati's Blog
+  description: Here comes the test.
+  label: Test
 pages:
 - src/pages/blog/index.md
