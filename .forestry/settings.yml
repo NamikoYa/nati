@@ -45,8 +45,9 @@ sections:
   templates:
   - post
 - type: document
-  path: src/contact/index.md
+  path: src/pages/contact.md
   label: Contact
+  match: "**/*"
 - type: document
   path: src/data/menus.json
   label: Site Menus
