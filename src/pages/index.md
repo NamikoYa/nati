@@ -13,7 +13,7 @@ sections:
   title: About
   section_id: about
   actions:
-  - label: About
+  - label: View About
     url: "/about"
   component: ContentBlock
   content: You can find more information about my blog and me in the "About"-Section.
