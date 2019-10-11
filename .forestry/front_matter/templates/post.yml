@@ -41,4 +41,5 @@ fields:
   config:
     required: true
 pages:
+- src/pages/posts/people-s-perspectives.md
 - src/pages/posts/test.md
