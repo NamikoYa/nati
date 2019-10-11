@@ -2,7 +2,7 @@
   "links": [
     {
       "title": "Email",
-      "icon": "fas fa-address-card",
+      "icon": "far fa-envelope",
       "url": "mailto:nati.wernli@gmail.com"
     },
     {
