@@ -15,9 +15,9 @@ There isn't much about me. I'm just a girl in her 20s with lots of thoughts and 
 
 Keep in mind, all posts in my blog are written from my perspective with my values and opinions. If you ever want to talk about personal stuff in your life or want to expand a topic of one of my posts, feel free to contact me.
 
-> Don't take me too serious
+**Don't take me too serious!**
 
-It may help you to cope with your thoughts and everyday life struggles but in the end this blog is just for entertainment and isn't professional advice or anything in that direction.
+My posts may help you to cope with your thoughts and everyday life struggles but in the end this blog is just for entertainment and isn't professional advice or anything in that direction.
 
 I hope you enjoy reading!
 
