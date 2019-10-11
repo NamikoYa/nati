@@ -13,8 +13,8 @@ sections:
   title: About
   section_id: about
   actions:
-  - label: Contact Me
-    url: "/contact"
+  - label: About
+    url: "/about"
   component: ContentBlock
   content: You can find more information about my blog and me in the "About"-Section.
     If you have any questions or concerns, feel free to contact me via Email or my
