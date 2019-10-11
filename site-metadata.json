@@ -14,7 +14,13 @@
     "content": "&copy; All rights reserved",
     "links": [
       {
-        "text": "",
+        "text": "Impressum",
+        "new_window": true,
+        "url": "https://www.google.com/"
+      },
+      {
+        "text": "made with Stackbit",
+        "url": "https://www.stackbit.com/",
         "new_window": true
       }
     ]
