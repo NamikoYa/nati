@@ -2,7 +2,7 @@
 template: post
 title: Fear of Death
 subtitle: Me worrying about stop existing.
-date: 2019-10-12T21:26:00Z
+date: 2019-10-07T21:26:00Z
 thumb_img_path: "/images/death_2.jpg"
 content_img_path: ''
 excerpt: ''
