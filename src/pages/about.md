@@ -1,7 +1,7 @@
 ---
 title: About Me
 subtitle: This is a short page about me and this page.
-img_path: "/images/Header-Coffee-with-Laptop.jpg"
+img_path: "/images/writing-for-a-modern-audience-header.jpg"
 menus:
   main:
     title: About
