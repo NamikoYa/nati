@@ -10,5 +10,3 @@ canonical_url: ''
 
 ---
 This post is about something pretty dark and serious. It's one of my big fears I have in my silly, little brain.
-
-I often think about our existence and our importance in the universe.
