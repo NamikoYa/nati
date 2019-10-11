@@ -15,5 +15,11 @@ fields:
   default: blog
   config:
     required: true
+- name: titlefield
+  type: text
+  config:
+    required: false
+  description: Title
+  label: Nati's Blog
 pages:
 - src/pages/blog/index.md
