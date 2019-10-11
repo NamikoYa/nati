@@ -15,11 +15,5 @@ fields:
   default: blog
   config:
     required: true
-- name: titlefield
-  type: text
-  config:
-    required: false
-  description: Here comes the test.
-  label: Test
 pages:
 - src/pages/blog/index.md
