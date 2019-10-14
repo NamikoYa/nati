@@ -11,7 +11,7 @@ canonical_url: ''
 ---
 This post is about something pretty dark and serious. It's one of my big fears I have in my silly, little brain.
 
-Death, it is so sudden and unpredictable. We all are attached to our existence and fight for survival. That’s what life is or should be for us. But I’m not afraid of its unpredictability, I’m afraid of stop existing. The feeling of just not being here in this world anymore, to be gone, to not think, not remember anymore. I shiver when this big realization comes over me, when I know at some point this will happen to me, I will just stop existing, everything I know will fall apart. But what do I fear? I won’t know that I’m dead when I’m dead, right? I won’t be able to feel or think about my death, so why is the thought of me ending so scary?
+Death, it is so sudden and unpredictable. We are all attached to our existence and our instinct is to fight for survival. That’s what life is or should be for us. But I’m not afraid of its unpredictability, I’m afraid of stop existing. The feeling of just not being here in this world anymore, to be gone, to not think, not remember anymore. I shiver when this big realization comes over me, when I know at some point this will happen to me, I will just stop existing, everything I know will fall apart. But what do I fear? I won’t know that I’m dead when I’m dead, right? I won’t be able to feel or think about my death, so why is the thought of me ending so scary?
 
 Maybe, it is the nothingness afterwards. That I’m not here but others stay. But that would be extremely egoistic. Maybe it is the instinct, which is in all of us, to just survive. But why do some of us not fear death?
 
