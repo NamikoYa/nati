@@ -15,6 +15,6 @@ Death, it is so sudden and unpredictable. We are all attached to our existence a
 
 Maybe, it is the nothingness afterwards. That I’m not here but others stay. But that would be extremely egoistic. Maybe it is the instinct, which is in all of us, to just survive. But why do some of us not fear death?
 
-Well yeah, some of us humans believe in life after death. But why should there be something after us if there was nothing before us? Aren’t we just a happy accident where chemicals reacted a specific way and we started to grow and grow? Where is the line of beings coming into the afterlife? What is considered a being and what is not? Is our bacteria a being? It contains cells and follows its nature, right?
+Well yeah, some of us humans believe in life after death. But why should there be something after us if there was nothing before us? Aren’t we just a happy accident where chemicals reacted a specific way and we started to grow and grow? Where is the line of which beings come into the afterlife? What is considered a being and what is not? Is our bacteria a being? It contains cells and follows its nature, right?
 
 So many questions, so many loopholes and unsatisfying points. This is why I believe every story of there being an afterlife is a concept of humans even though I wish they were true. Well yeah, maybe it is true we just don’t have any prove and there are too many factors we just can’t explain yet. Who knows. Nobody knows.
