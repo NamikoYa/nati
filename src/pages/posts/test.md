@@ -1,6 +1,6 @@
 ---
 template: post
-title: Emptyness
+title: Emptiness
 subtitle: Me having a bad week
 date: 2019-10-10T00:00:00.000+00:00
 thumb_img_path: "/images/40343819711_ea54c4b1a3_b.jpg"
@@ -9,12 +9,4 @@ excerpt: ''
 canonical_url: ''
 
 ---
-Dear Readers
-
-Yesterday I stayed awake until very late because I just couldn't sleep. I just wanted to share my thoughts.
-
-It's a pressing feeling in my chest, as if there is something, but whenever you look inside there is absolutely nothing. Sometimes I have that feeling for weeks and  in that time I just don't care about anything. I feel like in a trance, watching myself struggling through my daily life. I watch myself laughing while I can't feel the happiness of the laugh, the emotion that it brings with it. I watch myself crying, but I also can't feel the pain I'm supposed to feel or the relief afterwards. I just feel the emptiness wandering through me. Emotionless. Careless.
-
-And my thoughts won't stop.
-
-Your life is so boring, you do the same everyday. Do you even matter? What if you were just gone, would someone care? Maybe for a while...
+It is pressing, pressing on my heart, pressing me down. The emptiness filling my body and at the same time leaving so much space, drowning my energy. It is as if I suffocate, just inside, struggling with my purpose, my own values about life. This space that fills up my whole body, my whole mind, won't let anything else in. No emotions, no feeling of being alive. I'm not happy but I'm not sad either. I can't cry because there is nothing to cry about. I can't laugh because there is nothing to laugh about. It feels like... it doesn't feel like anything. I'm just afraid of feeling absolutely nothing.
