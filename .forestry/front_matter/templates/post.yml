@@ -43,5 +43,6 @@ fields:
 pages:
 - src/pages/posts/be-who-you-are.md
 - src/pages/posts/fear-of-death.md
+- src/pages/posts/our-body.md
 - src/pages/posts/people-s-perspectives.md
 - src/pages/posts/test.md
